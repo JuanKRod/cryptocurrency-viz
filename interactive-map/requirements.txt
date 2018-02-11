@@ -1,0 +1,5 @@
+pandas
+ballot
+ipywidgets
+os
+bumpy
