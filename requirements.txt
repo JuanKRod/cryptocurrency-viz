@@ -1,5 +1,5 @@
 pandas
-ballot
+bqplot
 ipywidgets
 os
 numpy
